@@ -7,6 +7,9 @@ EXPOSE 80
 CMD ["/usr/sbin/httpd","-D","FOREGROUND"]
 
 
+#Nouvelle version 
+
+
 
 
 
